@@ -1,4 +1,5 @@
-# project:dockerfile
-# author:chanrobo
-# create at 2018/12/2
-# windchen
+project:dockerfile
+author:chanrobo
+desc:this is a dockerfile
+create at 2018/12/2
+windchen
